@@ -51,7 +51,7 @@ First, I tested the algorithms on smaller strings containing few words separated
 Both the algorithms and implementations are inspired from the solutions provided by GeeksForGeeks, but there are some minor tweaks I made so that the algorithms would accept any ASCII characters (Standard Tree's implementation). The time complexity for the insert/search/delete word functions is O(word length). As for the Suffix Tree, the time complexity is O(pattern length + number of appearances).
 
 ### Links:
-- (Standard Trie) https://www.geeksforgeeks.org/trie-insert-and-search/
+- (Standard Trie) https://www.geeksforgeeks.org/trie-insert-and-search/  
                   https://www.geeksforgeeks.org/trie-delete/?ref=lbp
 - (Suffix Trie) https://www.geeksforgeeks.org/pattern-searching-using-trie-suffixes/?ref=lbp
 
