@@ -1,0 +1,186 @@
+Testing Standard Tree:
+Searching for the pattern 'Jotaro' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Dio' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Pillar' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Men' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Bizarre' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Joestar' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'star' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Hamon' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Stand' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Giorno' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Josuke' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Higashikata' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Volumes' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Diavolo' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'world' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tim' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Joseph' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'mafia' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'DIO' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'power' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Morioh' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'transform' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'German' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'supernatural' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'chapters' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern '1' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'illegitimate' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Jotaro' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Jotaro' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 690, 787
+
+Searching for the pattern 'Dio' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 452, 546, 841, 889
+
+Searching for the pattern 'Pillar' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 80, 151, 216, 402
+
+Searching for the pattern 'Men' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 223, 409
+
+Searching for the pattern 'Bizarre' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'Joestar' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 317, 961
+
+Searching for the pattern 'star' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 320, 964
+
+Searching for the pattern 'Hamon' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 382
+
+Searching for the pattern 'Stand' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 590, 750, 1147
+
+Searching for the pattern 'Giorno' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'Josuke' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 1020, 1092
+
+Searching for the pattern 'Higashikata' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1027
+
+Searching for the pattern 'Volumes' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 0, 414, 919
+
+Searching for the pattern 'Diavolo' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'world' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'tim' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1008
+
+Searching for the pattern 'Joseph' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 310, 645, 795, 988
+
+Searching for the pattern 'mafia' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'DIO' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 483
+
+Searching for the pattern 'power' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 94
+
+Searching for the pattern 'Morioh' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1084
+
+Searching for the pattern 'transform' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'German' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 38
+
+Searching for the pattern 'supernatural' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'chapters' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 17, 433, 938
+
+Searching for the pattern '1' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 10, 30, 422, 429, 446, 934, 951
+
+Searching for the pattern 'illegitimate' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1002

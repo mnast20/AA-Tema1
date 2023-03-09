@@ -1,0 +1,18 @@
+Getting distances between 'supercalifragilisticexpialidocious' and 'precocious'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+25
+
+Edit Distance (based on Levenshtein Distance):
+25
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+9
+
+Longest Common Subsequence:
+pecocious
+
+Edit Distance(based on LCS Distance):
+26

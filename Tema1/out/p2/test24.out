@@ -1,0 +1,178 @@
+Testing Standard Tree:
+Searching for the pattern 'Rukia' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Ichigo' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Karakura' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern '15' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Kurosaki' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Soul' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Society' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'story' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'student' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'the' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'The' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Shinigami' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Chad' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Bleach' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Reaper' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Orihime' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'par' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Espada' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Kuchiki' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'contained' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Yoruichi' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Shihoin' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Ishida' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Urahara' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'duce' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Deleting the word 'Rukia' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Rukia' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 259, 475, 890, 1177
+
+Searching for the pattern 'Ichigo' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 161, 1012
+
+Searching for the pattern 'Karakura' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 112
+
+Searching for the pattern '15' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 129
+
+Searching for the pattern 'Kurosaki' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 168
+
+Searching for the pattern 'Soul' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 198, 276, 998, 1122
+
+Searching for the pattern 'Society' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1003
+
+Searching for the pattern 'story' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 97
+
+Searching for the pattern 'student' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 153
+
+Searching for the pattern 'the' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 416, 604, 732, 819, 944, 978, 1029
+
+Searching for the pattern 'The' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 0
+
+Searching for the pattern 'Shinigami' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 214
+
+Searching for the pattern 'Chad' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 791
+
+Searching for the pattern 'Bleach' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 4
+
+Searching for the pattern 'Reaper' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 203, 281, 1127
+
+Searching for the pattern 'Orihime' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 669
+
+Searching for the pattern 'par' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 347, 658
+
+Searching for the pattern 'Espada' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'Kuchiki' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 265
+
+Searching for the pattern 'contained' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 87
+
+Searching for the pattern 'Yoruichi' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1066
+
+Searching for the pattern 'Shihoin' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1075
+
+Searching for the pattern 'Ishida' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 620
+
+Searching for the pattern 'Urahara' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1054
+
+Searching for the pattern 'duce' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 58

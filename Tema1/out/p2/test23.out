@@ -1,0 +1,122 @@
+Testing Standard Tree:
+Searching for the pattern 'acet' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'lyl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tyl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'glutam' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'spar' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tyr' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'proly' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tamin' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'phenyl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'll' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'cy' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'seryl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'ginyl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Ginyl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tyro' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'lala' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'acetylseryltyrosylserylisoleucylthreonylserylprolylserylglutaminylphenylalanylvalylphenylalanylleucylserylserylvalyltryptophylalanylaspartylprolylisoleucylglutamylleucylleucylasparaginylvalylcysteinylthreonylserylserylleucylglycylasparaginylglutaminylphenylalanylglutaminylthreonylglutaminylglutaminylalanylarginylthreonylthreonylglutaminylvalylglutaminylglutaminylphenylalanylserylglutaminylvalyltryptophyllysylprolylphenylalanylprolylglutaminylserylthreonylvalylarginylphenylalanylprolylglycylaspartylvalyltyrosyllysylvalyltyrosylarginyltyrosylasparaginylalanylvalylleucylaspartylprolylleucylisoleucylthreonylalanylleucylleucylglycylthreonylphenylalanylaspartylthreonylarginylasparaginylarginylisoleucylisoleucylglutamylvalylglutamylasparaginylglutaminylglutaminylserylprolylthreonylthreonylalanylglutamylthreonylleucylaspartylalanylthreonylarginylarginylvalylaspartylaspartylalanylthreonylvalylalanylisoleucylarginylserylalanylasparaginylisoleucylasparaginylleucylvalylasparaginylglutamylleucylvalylarginylglycylthreonylglycylleucyltyrosylasparaginylglutaminylasparaginylthreonylphenylalanylglutamylserylmethionylserylglycylleucylvalyltryptophylthreonylserylalanylprolylalanylserin' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'acet' from the Standard Trie:
+The given pattern was only a prefix in the text, thus nothing to be done
+
+Testing Suffix Tree:
+Searching for the pattern 'acet' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 0
+
+Searching for the pattern 'lyl' in the Suffix Trie:
+Pattern appeared 23 times
+Pattern was found at the positions: 48, 80, 113, 143, 188, 342, 394, 415, 433, 461, 486, 505, 522, 565, 585, 724, 774, 859, 894, 969, 999, 1135, 1170
+
+Searching for the pattern 'tyl' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 3, 137, 500, 579, 660, 826, 867, 875
+
+Searching for the pattern 'glutam' in the Suffix Trie:
+Pattern appeared 19 times
+Pattern was found at the positions: 56, 155, 241, 263, 281, 291, 330, 345, 355, 382, 436, 714, 727, 746, 756, 799, 983, 1053, 1094
+
+Searching for the pattern 'spar' in the Suffix Trie:
+Pattern appeared 17 times
+Pattern was found at the positions: 133, 176, 231, 496, 547, 575, 656, 679, 736, 822, 863, 871, 931, 951, 973, 1043, 1064
+
+Searching for the pattern 'tyr' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 11, 508, 525, 539, 1035
+
+Searching for the pattern 'proly' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 45, 140, 412, 430, 483, 582, 771, 1167
+
+Searching for the pattern 'tamin' in the Suffix Trie:
+Pattern appeared 13 times
+Pattern was found at the positions: 59, 244, 266, 284, 294, 333, 348, 358, 385, 439, 749, 759, 1056
+
+Searching for the pattern 'phenyl' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 66, 83, 251, 365, 418, 471, 643, 1082
+
+Searching for the pattern 'll' in the Suffix Trie:
+Pattern appeared 15 times
+Pattern was found at the positions: 94, 162, 168, 217, 406, 514, 567, 587, 616, 622, 814, 960, 990, 1028, 1126
+
+Searching for the pattern 'cy' in the Suffix Trie:
+Pattern appeared 27 times
+Pattern was found at the positions: 29, 98, 152, 166, 172, 191, 221, 227, 492, 571, 591, 600, 620, 626, 632, 702, 711, 818, 909, 947, 964, 994, 1012, 1026, 1032, 1124, 1130
+
+Searching for the pattern 'seryl' in the Suffix Trie:
+Pattern appeared 15 times
+Pattern was found at the positions: 6, 18, 40, 51, 101, 106, 208, 213, 377, 446, 766, 919, 1102, 1116, 1156
+
+Searching for the pattern 'ginyl' in the Suffix Trie:
+Pattern appeared 19 times
+Pattern was found at the positions: 181, 236, 309, 466, 534, 552, 673, 684, 691, 741, 845, 852, 914, 936, 956, 978, 1004, 1048, 1069
+
+Searching for the pattern 'Ginyl' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'tyro' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 11, 508, 525, 539, 1035
+
+Searching for the pattern 'lala' in the Suffix Trie:
+Pattern appeared 19 times
+Pattern was found at the positions: 71, 88, 125, 256, 300, 370, 423, 476, 556, 610, 648, 792, 828, 877, 896, 923, 1087, 1160, 1172
+
+Searching for the pattern 'acetylseryltyrosylserylisoleucylthreonylserylprolylserylglutaminylphenylalanylvalylphenylalanylleucylserylserylvalyltryptophylalanylaspartylprolylisoleucylglutamylleucylleucylasparaginylvalylcysteinylthreonylserylserylleucylglycylasparaginylglutaminylphenylalanylglutaminylthreonylglutaminylglutaminylalanylarginylthreonylthreonylglutaminylvalylglutaminylglutaminylphenylalanylserylglutaminylvalyltryptophyllysylprolylphenylalanylprolylglutaminylserylthreonylvalylarginylphenylalanylprolylglycylaspartylvalyltyrosyllysylvalyltyrosylarginyltyrosylasparaginylalanylvalylleucylaspartylprolylleucylisoleucylthreonylalanylleucylleucylglycylthreonylphenylalanylaspartylthreonylarginylasparaginylarginylisoleucylisoleucylglutamylvalylglutamylasparaginylglutaminylglutaminylserylprolylthreonylthreonylalanylglutamylthreonylleucylaspartylalanylthreonylarginylarginylvalylaspartylaspartylalanylthreonylvalylalanylisoleucylarginylserylalanylasparaginylisoleucylasparaginylleucylvalylasparaginylglutamylleucylvalylarginylglycylthreonylglycylleucyltyrosylasparaginylglutaminylasparaginylthreonylphenylalanylglutamylserylmethionylserylglycylleucylvalyltryptophylthreonylserylalanylprolylalanylserin' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 0

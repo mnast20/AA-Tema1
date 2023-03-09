@@ -1,0 +1,18 @@
+Getting distances between 'adaptation' and 'versification'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+8
+
+Edit Distance (based on Levenshtein Distance):
+8
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+5
+
+Longest Common Subsequence:
+ation
+
+Edit Distance(based on LCS Distance):
+13

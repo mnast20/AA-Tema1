@@ -1,0 +1,18 @@
+Getting distances between 'Spectrophotofluorometrically' and 'Sesquipedalian'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+22
+
+Edit Distance (based on Levenshtein Distance):
+22
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+6
+
+Longest Common Subsequence:
+Spelia
+
+Edit Distance(based on LCS Distance):
+30

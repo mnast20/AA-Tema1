@@ -1,0 +1,248 @@
+Testing Standard Tree:
+Searching for the pattern 'Shigaraki' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Midoriya' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Izuku' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hero' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Might' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'world' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Quirk' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'power' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'super' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Endeavor' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'endless' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'celebrity' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hend' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'idol' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'recognized' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'tion' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'common' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'enhanced' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'celebrity' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Pro' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'status' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Villains' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'apprehending' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'story' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Tomura' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Bakugo' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hood' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'All' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'One' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'for' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'reveal' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'apprentice' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Academia' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'For' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Katsuki' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Shigaraki' from the Standard Trie:
+The word was removed successfully and isn't a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Shigaraki' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1177
+
+Searching for the pattern 'Midoriya' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 626
+
+Searching for the pattern 'Izuku' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 620, 877, 963
+
+Searching for the pattern 'hero' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 999, 1226
+
+Searching for the pattern 'Might' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 786
+
+Searching for the pattern 'world' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 42
+
+Searching for the pattern 'Quirk' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 146, 185, 315, 755, 837
+
+Searching for the pattern 'power' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 132, 265, 482
+
+Searching for the pattern 'super' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 127
+
+Searching for the pattern 'Endeavor' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'endless' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 167
+
+Searching for the pattern 'celebrity' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 569
+
+Searching for the pattern 'hend' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 448
+
+Searching for the pattern 'idol' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 774
+
+Searching for the pattern 'recognized' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 594
+
+Searching for the pattern 'tion' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 88, 433, 525, 932, 1149
+
+Searching for the pattern 'common' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 490
+
+Searching for the pattern 'enhanced' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 321
+
+Searching for the pattern 'celebrity' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 569
+
+Searching for the pattern 'Pro' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 608
+
+Searching for the pattern 'status' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 579
+
+Searching for the pattern 'Villains' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 508
+
+Searching for the pattern 'apprehending' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 443
+
+Searching for the pattern 'story' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 4
+
+Searching for the pattern 'Tomura' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1170
+
+Searching for the pattern 'Bakugo' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 734, 1044
+
+Searching for the pattern 'hood' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 714
+
+Searching for the pattern 'All' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 782, 851, 1116, 1132
+
+Searching for the pattern 'One' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 843, 1108, 1140
+
+Searching for the pattern 'for' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 741
+
+Searching for the pattern 'reveal' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 803, 811
+
+Searching for the pattern 'apprentice' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1159
+
+Searching for the pattern 'Academia' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 21
+
+Searching for the pattern 'For' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 847, 1112, 1136
+
+Searching for the pattern 'Katsuki' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 726

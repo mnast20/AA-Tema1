@@ -1,0 +1,105 @@
+Testing Standard Tree:
+Searching for the pattern 'deqohyp' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'xwhpyyuj' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tef' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'kasjfofjcsdki' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'kdyxie' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'hcuamuzu' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'qoacamfblijoaue' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'wgirhbfdn' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'omzxuqx' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'whdyxdd' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'xcrgmzp' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'trie' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'wixcrgmzp' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'xddlvwwkl' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'yuwmy' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Deleting the word 'deqohyp' from the Standard Trie:
+The given pattern was only a prefix in the text, thus nothing to be done
+
+Testing Suffix Tree:
+Searching for the pattern 'deqohyp' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 16
+
+Searching for the pattern 'xwhpyyuj' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'tef' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 80
+
+Searching for the pattern 'kasjfofjcsdki' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'kdyxie' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 73
+
+Searching for the pattern 'hcuamuzu' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'qoacamfblijoaue' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 128
+
+Searching for the pattern 'wgirhbfdn' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 32
+
+Searching for the pattern 'omzxuqx' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 112
+
+Searching for the pattern 'whdyxdd' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 146
+
+Searching for the pattern 'xcrgmzp' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 88
+
+Searching for the pattern 'trie' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'wixcrgmzp' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 86
+
+Searching for the pattern 'xddlvwwkl' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 150
+
+Searching for the pattern 'yuwmy' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 104

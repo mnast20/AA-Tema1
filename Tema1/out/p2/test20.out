@@ -1,0 +1,129 @@
+Testing Standard Tree:
+Searching for the pattern 'in' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'co' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'able' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'ation' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'undeniable' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'incontestables' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'question' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'quest' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'a' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'authentic' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'on' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'math' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'den' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'poss' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'caffein' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'caf' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'contest' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'tion' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Deleting the word 'in' from the Standard Trie:
+The given pattern was only a prefix in the text, thus nothing to be done
+
+Testing Suffix Tree:
+Searching for the pattern 'in' in the Suffix Trie:
+Pattern appeared 6 times
+Pattern was found at the positions: 0, 12, 52, 195, 286, 302
+
+Searching for the pattern 'co' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 14, 26, 34, 45, 141, 158, 274
+
+Searching for the pattern 'able' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 7, 21, 64, 99, 123
+
+Searching for the pattern 'ation' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 152
+
+Searching for the pattern 'undeniable' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 117
+
+Searching for the pattern 'incontestables' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'question' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 56, 91, 171
+
+Searching for the pattern 'quest' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 56, 91, 171
+
+Searching for the pattern 'a' in the Suffix Trie:
+Pattern appeared 21 times
+Pattern was found at the positions: 7, 21, 41, 64, 69, 82, 99, 105, 110, 114, 123, 128, 152, 181, 206, 221, 282, 291, 298, 304, 310
+
+Searching for the pattern 'authentic' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 69, 206, 221
+
+Searching for the pattern 'on' in the Suffix Trie:
+Pattern appeared 12 times
+Pattern was found at the positions: 15, 27, 35, 46, 62, 80, 97, 155, 159, 168, 177, 271
+
+Searching for the pattern 'math' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 104, 180
+
+Searching for the pattern 'den' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 119, 186, 191, 199
+
+Searching for the pattern 'poss' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 233, 242, 254, 263
+
+Searching for the pattern 'caffein' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 281, 297
+
+Searching for the pattern 'caf' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 281, 290, 297, 309
+
+Searching for the pattern 'contest' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 14, 26, 34, 45
+
+Searching for the pattern 'tion' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 60, 95, 153, 166, 175

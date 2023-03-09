@@ -1,0 +1,178 @@
+Testing Standard Tree:
+Searching for the pattern 'Fushiguro' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Sukuna' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sorcer' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Kugisaki' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'jujutsu' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'curse' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'first' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Gojo' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ex' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'mission' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Nobara' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'domain' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'live' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'mentor' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Junpei' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'technique' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'spirit' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Yuji' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'layered' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'attack' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'heart' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'out' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'blood' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'seem' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'train' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Fushiguro' from the Standard Trie:
+Word doesn't exist in the text, thus no deletion available
+
+Testing Suffix Tree:
+Searching for the pattern 'Fushiguro' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'Sukuna' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 316
+
+Searching for the pattern 'sorcer' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 160, 708, 854
+
+Searching for the pattern 'Kugisaki' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 107
+
+Searching for the pattern 'jujutsu' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 38, 152, 700, 846
+
+Searching for the pattern 'curse' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 248, 593, 641, 731, 897
+
+Searching for the pattern 'first' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 27
+
+Searching for the pattern 'Gojo' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 462, 574, 864, 1032
+
+Searching for the pattern 'ex' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 932
+
+Searching for the pattern 'mission' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 188
+
+Searching for the pattern 'Nobara' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 100
+
+Searching for the pattern 'domain' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 925
+
+Searching for the pattern 'live' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 513
+
+Searching for the pattern 'mentor' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 560
+
+Searching for the pattern 'Junpei' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1075
+
+Searching for the pattern 'technique' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 600, 953
+
+Searching for the pattern 'spirit' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 648, 738, 904
+
+Searching for the pattern 'Yuji' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 55, 331, 407, 498
+
+Searching for the pattern 'layered' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 669
+
+Searching for the pattern 'attack' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 677
+
+Searching for the pattern 'heart' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 359
+
+Searching for the pattern 'out' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 365
+
+Searching for the pattern 'blood' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 436
+
+Searching for the pattern 'seem' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 412
+
+Searching for the pattern 'train' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 535

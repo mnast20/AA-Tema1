@@ -1,0 +1,207 @@
+Testing Standard Tree:
+Searching for the pattern 'Dietfried' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Memory' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'love' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Evergarden' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'letters' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Gilbert' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'soldier' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'war' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'society' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'reintegrating' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'lit' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'military' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Violet' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'words' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'order' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'you' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Major' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'comer' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Postal' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Auto' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'officer' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'child' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'name' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'combat' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ess' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'the' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ment' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'nav' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'kill' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Dietfried' from the Standard Trie:
+The word was removed successfully and isn't a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Dietfried' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 535, 887, 927
+
+Searching for the pattern 'Memory' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 349
+
+Searching for the pattern 'love' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 271
+
+Searching for the pattern 'Evergarden' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 25
+
+Searching for the pattern 'letters' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 457
+
+Searching for the pattern 'Gilbert' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 246, 985, 1061, 1142
+
+Searching for the pattern 'soldier' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 169, 717
+
+Searching for the pattern 'war' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 91, 1094
+
+Searching for the pattern 'society' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 73
+
+Searching for the pattern 'reintegrating' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 49
+
+Searching for the pattern 'lit' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1002
+
+Searching for the pattern 'military' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1000
+
+Searching for the pattern 'Violet' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 18, 281, 502, 779, 873, 945, 1126, 1238
+
+Searching for the pattern 'words' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 209
+
+Searching for the pattern 'order' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 180, 912
+
+Searching for the pattern 'you' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 276
+
+Searching for the pattern 'Major' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 240
+
+Searching for the pattern 'comer' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 296
+
+Searching for the pattern 'Postal' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 312
+
+Searching for the pattern 'Auto' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 344
+
+Searching for the pattern 'officer' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 527
+
+Searching for the pattern 'child' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 495
+
+Searching for the pattern 'name' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 486, 1228
+
+Searching for the pattern 'combat' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 663
+
+Searching for the pattern 'ess' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 432, 491, 674
+
+Searching for the pattern 'the' in the Suffix Trie:
+Pattern appeared 10 times
+Pattern was found at the positions: 87, 200, 305, 439, 773, 786, 814, 819, 980, 996
+
+Searching for the pattern 'ment' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 219, 653
+
+Searching for the pattern 'nav' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 522, 641
+
+Searching for the pattern 'kill' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 702, 803

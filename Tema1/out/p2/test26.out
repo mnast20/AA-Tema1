@@ -1,0 +1,168 @@
+Testing Standard Tree:
+Searching for the pattern 'Eren' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Yeager' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Mikasa' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'attack' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'titan' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Ackerman' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'blood' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'line' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'District' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'mother' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Shiganshina' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Survey' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Corps' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Titan' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'military' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'years' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'wall' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Colossus' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Armored' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'power' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'owner' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ship' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 're' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'story' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Eren' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Eren' in the Suffix Trie:
+Pattern appeared 6 times
+Pattern was found at the positions: 19, 293, 333, 752, 979, 1123
+
+Searching for the pattern 'Yeager' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 24
+
+Searching for the pattern 'Mikasa' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 441
+
+Searching for the pattern 'attack' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 633
+
+Searching for the pattern 'titan' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'Ackerman' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 448
+
+Searching for the pattern 'blood' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'line' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'District' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'mother' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 300
+
+Searching for the pattern 'Shiganshina' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 63, 604
+
+Searching for the pattern 'Survey' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 498, 679, 870
+
+Searching for the pattern 'Corps' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 505, 686, 877
+
+Searching for the pattern 'Titan' in the Suffix Trie:
+Pattern appeared 11 times
+Pattern was found at the positions: 150, 216, 243, 265, 321, 372, 564, 668, 740, 831, 1022
+
+Searching for the pattern 'military' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 398
+
+Searching for the pattern 'years' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 592
+
+Searching for the pattern 'wall' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 119, 179, 580
+
+Searching for the pattern 'Colossus' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 234
+
+Searching for the pattern 'Armored' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 257
+
+Searching for the pattern 'power' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 916, 1142
+
+Searching for the pattern 'owner' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1108
+
+Searching for the pattern 'ship' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1113
+
+Searching for the pattern 're' in the Suffix Trie:
+Pattern appeared 15 times
+Pattern was found at the positions: 10, 20, 106, 188, 261, 294, 334, 357, 649, 696, 753, 925, 976, 980, 1124
+
+Searching for the pattern 'story' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 4

@@ -1,0 +1,143 @@
+Testing Standard Tree:
+Searching for the pattern 'the' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'was' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'I' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'From' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'from' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'trench' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'criss' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'cross' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'imp' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'wild' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'horse' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'war' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'bar' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sweet' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'cr' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'st' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'cost' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'dust' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'team' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'tear' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'ea' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'the' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'the' in the Suffix Trie:
+Pattern appeared 19 times
+Pattern was found at the positions: 92, 164, 231, 321, 390, 496, 604, 609, 614, 672, 690, 814, 841, 879, 916, 954, 959, 991, 1074
+
+Searching for the pattern 'was' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 152, 192, 334, 386, 479, 576, 972
+
+Searching for the pattern 'I' in the Suffix Trie:
+Pattern appeared 13 times
+Pattern was found at the positions: 22, 241, 332, 445, 476, 519, 574, 663, 700, 791, 894, 970, 1046
+
+Searching for the pattern 'From' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 0, 206
+
+Searching for the pattern 'from' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'trench' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 96, 676, 845
+
+Searching for the pattern 'criss' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'cross' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 929
+
+Searching for the pattern 'imp' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 274, 709
+
+Searching for the pattern 'wild' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'horse' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'war' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 432, 638, 873
+
+Searching for the pattern 'bar' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 124, 722, 748
+
+Searching for the pattern 'sweet' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 394, 483, 500
+
+Searching for the pattern 'cr' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 40, 929
+
+Searching for the pattern 'st' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 285, 506, 532, 589, 1015
+
+Searching for the pattern 'cost' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'dust' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'team' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'tear' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'ea' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 25, 171, 339, 368, 653, 666, 821

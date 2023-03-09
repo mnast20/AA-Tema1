@@ -1,0 +1,18 @@
+Getting distances between 'stupendous' and 'superman'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+6
+
+Edit Distance (based on Levenshtein Distance):
+6
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+5
+
+Longest Common Subsequence:
+supen
+
+Edit Distance(based on LCS Distance):
+8

@@ -1,0 +1,18 @@
+Getting distances between 'contest' and 'controversy'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+5
+
+Edit Distance (based on Levenshtein Distance):
+5
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+6
+
+Longest Common Subsequence:
+contes
+
+Edit Distance(based on LCS Distance):
+6

@@ -1,0 +1,45 @@
+Testing Standard Tree:
+Searching for the pattern 'bull' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'se' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'st' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'top' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'bel' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'put' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Deleting the word 'bull' from the Standard Trie:
+The word was removed successfully and isn't a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'bull' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 14
+
+Searching for the pattern 'se' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 23
+
+Searching for the pattern 'st' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 28, 34
+
+Searching for the pattern 'top' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 35
+
+Searching for the pattern 'bel' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 5
+
+Searching for the pattern 'put' in the Suffix Trie:
+Pattern was not found

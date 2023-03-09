@@ -1,0 +1,172 @@
+Testing Standard Tree:
+Searching for the pattern 'Opera' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sing' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Phantom' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Christine' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'she' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'love' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'house' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sto' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Vicomte' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'era' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Buquet' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hang' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern '1880' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Raoul' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'father' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'grave' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'figure' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'mysterious' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'an' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'know' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ris' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'en' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hand' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'stage' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Opera' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Opera' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 43, 122, 143, 410
+
+Searching for the pattern 'sing' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 234, 389, 743
+
+Searching for the pattern 'Phantom' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 107
+
+Searching for the pattern 'Christine' in the Suffix Trie:
+Pattern appeared 6 times
+Pattern was found at the positions: 355, 461, 784, 843, 927, 1109
+
+Searching for the pattern 'she' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 947, 1057, 1093
+
+Searching for the pattern 'love' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 634
+
+Searching for the pattern 'house' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 294
+
+Searching for the pattern 'sto' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 492, 1097
+
+Searching for the pattern 'Vicomte' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 516
+
+Searching for the pattern 'era' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 45, 124, 145, 290, 412
+
+Searching for the pattern 'Buquet' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 181
+
+Searching for the pattern 'hang' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 197
+
+Searching for the pattern '1880' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 7
+
+Searching for the pattern 'Raoul' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 524, 864, 1037
+
+Searching for the pattern 'father' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 1000, 1130
+
+Searching for the pattern 'grave' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1139
+
+Searching for the pattern 'figure' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1175
+
+Searching for the pattern 'mysterious' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1164
+
+Searching for the pattern 'an' in the Suffix Trie:
+Pattern appeared 15 times
+Pattern was found at the positions: 84, 109, 164, 198, 257, 307, 350, 430, 457, 480, 488, 571, 618, 702, 1088
+
+Searching for the pattern 'know' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 94, 332
+
+Searching for the pattern 'ris' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 19, 357, 463, 786, 845, 929, 1111
+
+Searching for the pattern 'en' in the Suffix Trie:
+Pattern appeared 6 times
+Pattern was found at the positions: 87, 277, 553, 712, 957, 1034
+
+Searching for the pattern 'hand' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 163
+
+Searching for the pattern 'stage' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 158, 677

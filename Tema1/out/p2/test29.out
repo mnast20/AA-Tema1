@@ -1,0 +1,207 @@
+Testing Standard Tree:
+Searching for the pattern 'Tokyo' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Yagami' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'god' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'kill' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Kira' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'high-school' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Shinigami' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Light' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'possibilit' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'notebook' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'criminal' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Note' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'investigation' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'detective' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Ryuk' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'assist' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Japan' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'reveal' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'trick' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'L' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Note' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Death' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'target' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'face' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'bored' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'own' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'mysterious' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'st' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'name' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Tokyo' from the Standard Trie:
+The given pattern was only a prefix in the text, thus nothing to be done
+
+Testing Suffix Tree:
+Searching for the pattern 'Tokyo' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 3
+
+Searching for the pattern 'Yagami' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 56
+
+Searching for the pattern 'god' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 220
+
+Searching for the pattern 'kill' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 122, 304, 915, 1194
+
+Searching for the pattern 'Kira' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 851, 943, 1077
+
+Searching for the pattern 'high-school' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 24
+
+Searching for the pattern 'Shinigami' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 451
+
+Searching for the pattern 'Light' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 50, 236, 423, 648, 1110
+
+Searching for the pattern 'possibilit' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 256
+
+Searching for the pattern 'notebook' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 104, 413, 548, 586
+
+Searching for the pattern 'criminal' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 332, 370, 668
+
+Searching for the pattern 'Note' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 79, 283, 475
+
+Searching for the pattern 'investigation' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1048
+
+Searching for the pattern 'detective' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1009
+
+Searching for the pattern 'Ryuk' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 443, 498
+
+Searching for the pattern 'assist' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 971, 1035
+
+Searching for the pattern 'Japan' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 323, 870, 1094, 1165
+
+Searching for the pattern 'reveal' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 558, 1121
+
+Searching for the pattern 'trick' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1103
+
+Searching for the pattern 'L' in the Suffix Trie:
+Pattern appeared 7 times
+Pattern was found at the positions: 50, 236, 423, 648, 1029, 1101, 1110
+
+Searching for the pattern 'Note' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 79, 283, 475
+
+Searching for the pattern 'Death' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 73, 277, 469
+
+Searching for the pattern 'target' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 169, 348
+
+Searching for the pattern 'face' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 187
+
+Searching for the pattern 'bored' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 623
+
+Searching for the pattern 'own' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 491, 1022
+
+Searching for the pattern 'mysterious' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 87, 819
+
+Searching for the pattern 'st' in the Suffix Trie:
+Pattern appeared 9 times
+Pattern was found at the positions: 36, 89, 768, 787, 821, 963, 975, 1039, 1052
+
+Searching for the pattern 'name' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 44, 178, 842

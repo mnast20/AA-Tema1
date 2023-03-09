@@ -1,0 +1,18 @@
+Getting distances between 'indubitable' and 'incontestable'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+6
+
+Edit Distance (based on Levenshtein Distance):
+6
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+7
+
+Longest Common Subsequence:
+intable
+
+Edit Distance(based on LCS Distance):
+10

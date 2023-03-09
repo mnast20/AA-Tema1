@@ -1,0 +1,234 @@
+Testing Standard Tree:
+Searching for the pattern 'Sophie' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Calcifer' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Howl' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Witch' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Turnip' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'prince' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'kingdom' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'demon' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Suliman' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'return' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'scare' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'crow' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'demon' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'However' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Meanwhile' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'transform' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'time' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'castle' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'fire' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'demon' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'apprentice' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ment' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'move' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'nounce' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Seek' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sorceress' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'year' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'ninety' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'woman' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Waste' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'and' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'war' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sister' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Sophie' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Sophie' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 0, 256, 605, 694, 769, 951, 1090, 1166
+
+Searching for the pattern 'Calcifer' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 521, 578, 1130
+
+Searching for the pattern 'Howl' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 80, 387, 468, 669, 680, 895, 930, 1026
+
+Searching for the pattern 'Witch' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 159, 1228
+
+Searching for the pattern 'Turnip' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 358
+
+Searching for the pattern 'prince' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 870
+
+Searching for the pattern 'kingdom' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 826
+
+Searching for the pattern 'demon' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 509
+
+Searching for the pattern 'Suliman' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1179
+
+Searching for the pattern 'return' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 129
+
+Searching for the pattern 'scare' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 332
+
+Searching for the pattern 'crow' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 337
+
+Searching for the pattern 'demon' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 509
+
+Searching for the pattern 'However' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 921
+
+Searching for the pattern 'Meanwhile' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 758
+
+Searching for the pattern 'transform' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 183
+
+Searching for the pattern 'time' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'castle' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 401, 549
+
+Searching for the pattern 'fire' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 504
+
+Searching for the pattern 'demon' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 509
+
+Searching for the pattern 'apprentice' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 481
+
+Searching for the pattern 'ment' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 572
+
+Searching for the pattern 'move' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 568
+
+Searching for the pattern 'nounce' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 703
+
+Searching for the pattern 'Seek' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 228
+
+Searching for the pattern 'sorceress' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1204
+
+Searching for the pattern 'year' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 212
+
+Searching for the pattern 'ninety' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 205
+
+Searching for the pattern 'woman' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 221
+
+Searching for the pattern 'Waste' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 172, 1241
+
+Searching for the pattern 'and' in the Suffix Trie:
+Pattern appeared 6 times
+Pattern was found at the positions: 25, 275, 498, 564, 1139, 1215
+
+Searching for the pattern 'war' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 803, 916, 1050
+
+Searching for the pattern 'sister' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 45, 109

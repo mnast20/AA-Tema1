@@ -1,0 +1,214 @@
+Testing Standard Tree:
+Searching for the pattern 'Nezuko' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Tanjiro' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Breathing' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Slayer' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'demon' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'curse' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Corps' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'human' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'decapitate' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'supernatural' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'slaughter' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'stance' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'breadwinner' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'jiro' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'light' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'technique' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hang' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'ry' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'man' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Kamado' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'society' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'cent' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sister' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Style' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'mountain' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'breadwinner' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'winner' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'ea' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'secret' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'for' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'Nezuko' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'Nezuko' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 84, 122, 156
+
+Searching for the pattern 'Tanjiro' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 54, 144, 878, 1192
+
+Searching for the pattern 'Breathing' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 797
+
+Searching for the pattern 'Slayer' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 235, 689
+
+Searching for the pattern 'demon' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 131, 291, 317
+
+Searching for the pattern 'curse' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 137
+
+Searching for the pattern 'Corps' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 242
+
+Searching for the pattern 'human' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 335, 357, 406, 730, 837
+
+Searching for the pattern 'decapitate' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 534
+
+Searching for the pattern 'supernatural' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 425
+
+Searching for the pattern 'slaughter' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1179
+
+Searching for the pattern 'stance' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 870
+
+Searching for the pattern 'breadwinner' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 998
+
+Searching for the pattern 'jiro' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 57, 147, 881, 1195
+
+Searching for the pattern 'light' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 672
+
+Searching for the pattern 'technique' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 776
+
+Searching for the pattern 'hang' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 372, 1101
+
+Searching for the pattern 'ry' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 7, 1092
+
+Searching for the pattern 'man' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 337, 359, 408, 732, 839
+
+Searching for the pattern 'Kamado' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 62, 91, 886
+
+Searching for the pattern 'society' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 207
+
+Searching for the pattern 'cent' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 302
+
+Searching for the pattern 'sister' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 77, 1208
+
+Searching for the pattern 'Style' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 807
+
+Searching for the pattern 'mountain' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 964
+
+Searching for the pattern 'breadwinner' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 998
+
+Searching for the pattern 'winner' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1003
+
+Searching for the pattern 'ea' in the Suffix Trie:
+Pattern appeared 8 times
+Pattern was found at the positions: 552, 768, 799, 860, 904, 1000, 1030, 1057
+
+Searching for the pattern 'secret' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 200, 272
+
+Searching for the pattern 'for' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 118, 298, 328, 378

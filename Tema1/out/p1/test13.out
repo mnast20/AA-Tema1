@@ -1,0 +1,18 @@
+Getting distances between 'Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch' and 'Floccinaucinihilipilification'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+48
+
+Edit Distance (based on Levenshtein Distance):
+48
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+12
+
+Longest Common Subsequence:
+lnainllcatio
+
+Edit Distance(based on LCS Distance):
+63

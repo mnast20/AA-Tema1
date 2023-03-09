@@ -1,0 +1,18 @@
+Getting distances between 'Thyroparathyroidectomized' and 'Parathyroid gland'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+14
+
+Edit Distance (based on Levenshtein Distance):
+14
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+11
+
+Longest Common Subsequence:
+arathyroidd
+
+Edit Distance(based on LCS Distance):
+20

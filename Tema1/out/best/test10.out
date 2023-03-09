@@ -1,0 +1,18 @@
+Getting distances between 'hippopotomonstrosesquippedaliophobia' and 'hippopotamus'
+
+Testing Levenshtein Distance:
+Levenshtein Distance:
+26
+
+Edit Distance (based on Levenshtein Distance):
+26
+
+Testing Longest Common Subsequence Distance:
+Longest Common Subsequence Distance:
+10
+
+Longest Common Subsequence:
+hippopotms
+
+Edit Distance(based on LCS Distance):
+28

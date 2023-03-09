@@ -1,0 +1,178 @@
+Testing Standard Tree:
+Searching for the pattern 'pirate' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'crew' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'King' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Luffy' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'man' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'journey' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'join' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Straw' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'East' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Blue' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'ship' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Going' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Merry' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sword' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'sea' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'rate' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'anthropomorphized' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'reindeer' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Nami' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'Robin' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'flag' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'Hat' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'adventure' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'hood' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'child' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'pirate' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'pirate' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 100, 634
+
+Searching for the pattern 'crew' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 279, 677, 727
+
+Searching for the pattern 'King' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 225
+
+Searching for the pattern 'Luffy' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 32, 308, 663
+
+Searching for the pattern 'man' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 47, 344, 939, 963, 972
+
+Searching for the pattern 'journey' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 140, 439
+
+Searching for the pattern 'join' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 423, 718
+
+Searching for the pattern 'Straw' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 289, 1084
+
+Searching for the pattern 'East' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 157, 649
+
+Searching for the pattern 'Blue' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 162, 654
+
+Searching for the pattern 'ship' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 563, 890, 1116
+
+Searching for the pattern 'Going' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 578, 1037
+
+Searching for the pattern 'Merry' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 584, 1043
+
+Searching for the pattern 'sword' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 338, 933
+
+Searching for the pattern 'sea' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 389
+
+Searching for the pattern 'rate' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 102, 239, 301, 636, 1096
+
+Searching for the pattern 'anthropomorphized' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 795
+
+Searching for the pattern 'reindeer' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 813
+
+Searching for the pattern 'Nami' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 450
+
+Searching for the pattern 'Robin' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 828
+
+Searching for the pattern 'flag' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'Hat' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 295, 1090
+
+Searching for the pattern 'adventure' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 699
+
+Searching for the pattern 'hood' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 77
+
+Searching for the pattern 'child' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 72

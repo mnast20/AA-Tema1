@@ -1,0 +1,166 @@
+Testing Standard Tree:
+Searching for the pattern 'man' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'slow' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'German' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'he' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'He' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'towards' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'boyo' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'st' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'first' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'cap' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'we' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'tre' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'French' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'german' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'com' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'coming' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'could' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'the' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'The' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'THE' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'was' in the Standard Trie:
+Pattern was found
+
+Searching for the pattern 'court' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'post' in the Standard Trie:
+Pattern either doesn't exist or it isn't a word or a prefix in the given text
+
+Searching for the pattern 'an' in the Standard Trie:
+Pattern was found
+
+Deleting the word 'man' from the Standard Trie:
+The word was deleted but remains only a prefix in the text
+
+Testing Suffix Tree:
+Searching for the pattern 'man' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 7, 106, 258, 803, 854
+
+Searching for the pattern 'slow' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 89
+
+Searching for the pattern 'German' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 4
+
+Searching for the pattern 'he' in the Suffix Trie:
+Pattern appeared 29 times
+Pattern was found at the positions: 1, 24, 82, 141, 220, 299, 334, 337, 351, 356, 365, 374, 506, 592, 600, 625, 651, 671, 676, 691, 696, 714, 794, 875, 895, 910, 944, 989, 1009
+
+Searching for the pattern 'He' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 72, 171, 394
+
+Searching for the pattern 'towards' in the Suffix Trie:
+Pattern appeared 4 times
+Pattern was found at the positions: 158, 382, 564, 1036
+
+Searching for the pattern 'boyo' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 707, 937
+
+Searching for the pattern 'st' in the Suffix Trie:
+Pattern appeared 5 times
+Pattern was found at the positions: 35, 368, 401, 638, 768
+
+Searching for the pattern 'first' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 32
+
+Searching for the pattern 'cap' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'we' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 604, 816, 1024
+
+Searching for the pattern 'tre' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 369, 595
+
+Searching for the pattern 'French' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'german' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'com' in the Suffix Trie:
+Pattern appeared 2 times
+Pattern was found at the positions: 153, 1029
+
+Searching for the pattern 'coming' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1029
+
+Searching for the pattern 'could' in the Suffix Trie:
+Pattern appeared 1 times
+Pattern was found at the positions: 1047
+
+Searching for the pattern 'the' in the Suffix Trie:
+Pattern appeared 12 times
+Pattern was found at the positions: 23, 140, 350, 355, 505, 591, 650, 670, 690, 793, 909, 988
+
+Searching for the pattern 'The' in the Suffix Trie:
+Pattern appeared 3 times
+Pattern was found at the positions: 0, 713, 1008
+
+Searching for the pattern 'THE' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'was' in the Suffix Trie:
+Pattern appeared 6 times
+Pattern was found at the positions: 11, 223, 397, 484, 511, 747
+
+Searching for the pattern 'court' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'post' in the Suffix Trie:
+Pattern was not found
+
+Searching for the pattern 'an' in the Suffix Trie:
+Pattern appeared 20 times
+Pattern was found at the positions: 8, 107, 113, 259, 265, 295, 330, 361, 451, 463, 501, 640, 743, 804, 824, 855, 861, 871, 920, 961
