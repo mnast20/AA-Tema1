@@ -1,6 +1,17 @@
 # AA-Tema1
 
 # Algorithms for String Processing
+## Problem Description
+Study performed on text processing algorithms, specifically pattern matching and approximate string matching. These algorithms were implemented in Java and analyzed for their efficiency in terms of execution time.
+
+### 1. Edit Distance Algorithms:
+- **Levenshtein Distance**: Measures the minimum number of character insertions, deletions, or substitutions required to transform one string into another.
+- **Longest Common Subsequence (LCS)**: Determines the longest sequence of characters that appear in the same order in both strings, considering only insertions and deletions.
+  
+### 2. Pattern Matching Algorithms:
+- **Trie Data Structure**: Used for efficient pattern searching, enabling prefix and exact word searches.
+- **Suffix Trie**: Stores all suffixes of a string, allowing efficient suffix and substring searches.
+
 
 ## Edit distance:
 ### Levenshtein distance:
