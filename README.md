@@ -1,5 +1,3 @@
-# AA-Tema1
-
 # Algorithms for String Processing
 ## Problem Description
 Study performed on text processing algorithms, specifically pattern matching and approximate string matching. These algorithms were implemented in Java and analyzed for their efficiency in terms of execution time.
